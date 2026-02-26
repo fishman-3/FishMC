@@ -26,7 +26,3 @@ More features will come as the project grows.
 ## 🐛 Bugs & Feedback
 
 This is early — if you hit something weird or have an idea, open an issue.
-
----
-
-Made by **fishman3** 🐟  
